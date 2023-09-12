@@ -1,0 +1,41 @@
+commit 5c6a23e0954f4d9a06ad8961a6ffb04444a0582f
+Author: Vicio <cdmx2418@amerike.edu.mx>
+Date:   Wed Sep 6 23:25:28 2023 -0600
+
+    Se agrego la rama de Proyecto de App
+
+commit 42d1c2217f911b9783a66bbd8284c1bbae719ec3
+Author: Vicio <cdmx2418@amerike.edu.mx>
+Date:   Wed Sep 6 23:15:01 2023 -0600
+
+    Se creo la rama de Diseño de Videojuegos
+
+commit 3395ec4efdeef4a90ee2a1ebf1b3eabb73fa3c49
+Author: Vicio <cdmx2418@amerike.edu.mx>
+Date:   Wed Sep 6 23:08:34 2023 -0600
+
+    Se agrego la rama de Principios de Composicion y Diseño
+
+commit 8737b2467a61d9a7fb11bf3ed6ba00bcfc2efd70
+Author: Vicio <cdmx2418@amerike.edu.mx>
+Date:   Wed Sep 6 23:03:20 2023 -0600
+
+    Se agrego la rama de Sistemas Operativos
+
+commit 87a926995d9c4e5ab33c7c0603bdaea3866f9e84
+Author: Vicio <cdmx2418@amerike.edu.mx>
+Date:   Wed Sep 6 22:56:42 2023 -0600
+
+    se agrego la rama de lenguajes interpretados
+
+commit 3c05d5fbb18214e1d5a36e2cb046376ca7467383
+Author: Vicio <cdmx2418@amerike.edu.mx>
+Date:   Wed Sep 6 22:43:06 2023 -0600
+
+    se agrego el readme con nombre
+
+commit d81b7711daa51e874d1c9dc2c9e53688b2c233b3
+Author: Vicio <cdmx2418@amerike.edu.mx>
+Date:   Wed Sep 6 22:26:55 2023 -0600
+
+    Este es el primer commit
