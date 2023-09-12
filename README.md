@@ -26,3 +26,5 @@ Profesor: Sebastian Mejia
 En esta materia estamos viendo como crear documentacion.
 
 CREANDO VERSION 1.0.0 DE ESTE REPOSITORIO.GIT 
+
+cambio para cambiar el usuario de github
